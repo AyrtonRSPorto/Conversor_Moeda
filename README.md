@@ -6,8 +6,9 @@
 - App conversor de moeda.<br>
 - Para este projeto eu utilizei a API api.hgbrasil para fazer as requisições
 
-# APK:
-https://drive.google.com/file/d/12m8K6yFShekKLDHlnJsu8P-2jOKP3sxt/view?usp=sharing
+# Download do app:
+https://drive.google.com/file/d/12m8K6yFShekKLDHlnJsu8P-2jOKP3sxt/view?usp=sharing <br>
+- Obs: como o app não esta na loja, será necessario baixar a apk diretamente e aceitar a instalação ao clicar no link.
 
 # Imagens:
 
