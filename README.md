@@ -1,16 +1,17 @@
 # conversor
 
-A new Flutter project.
+<hr/>
 
-## Getting Started
+# Sobre:
+- App conversor de moeda.<br>
+- Para este projeto eu utilizei a API api.hgbrasil para fazer as requisições
 
-This project is a starting point for a Flutter application.
+# APK:
+https://drive.google.com/file/d/12m8K6yFShekKLDHlnJsu8P-2jOKP3sxt/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
+# Imagens:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Captura de Tela 2021-07-26 às 17 51 18](https://user-images.githubusercontent.com/76439349/127058607-d47f9ce9-a893-4b6d-9dcf-1c4be4d865fd.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Captura de Tela 2021-07-26 às 17 51 41](https://user-images.githubusercontent.com/76439349/127058625-11c3c2ca-5327-43b7-8b9c-19d101d7bfc3.png)
